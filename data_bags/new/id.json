@@ -1,0 +1,15 @@
+{
+  "id": "id",
+  "idd": {
+    "encrypted_data": "AXq7+F7Fq+R9L4XdNj3mf9Ytgy67oHYQVRubWGvqLi8=\n",
+    "iv": "TNssIx1Y+fWHkt0s0RzQEA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "port": {
+    "encrypted_data": "Hj6poUlAcJRmA4r2301kN1gPJnZXOJPjTYViTy7UgBc=\n",
+    "iv": "XEj0cT0i6q0+0W61USSmkw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
